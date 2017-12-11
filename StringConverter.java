@@ -12,8 +12,8 @@ import java.util.regex.Pattern;
 
 public class StringConverter {
 	public static final String TAG = "StringConverter";
-	/* D:\\swapub_doc\\Programmer\\UI翻譯 */
-	public static String TRANSLATION_PROJECT_FOLDER = "D:\\swapub_doc\\Programmer\\UI翻譯";
+	/* D:\\doc\\Programmer\\UI翻譯 */
+	public static String TRANSLATION_PROJECT_FOLDER = "D:\\doc\\Programmer\\UI翻譯";
 	
 	
 	
